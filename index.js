@@ -7,14 +7,14 @@ let profilePic = document.getElementById('profileGreen');
 let profileBorder = document.getElementById('boxborder');
 
 function hoverOnImage () {
-    profilePic.src = "Resources/Images/PhotoMain.jpg";
+    profilePic.src = "Resources/Images/me.jpeg.jpg";
     profileBorder.style.top = "-240px";
     profileBorder.style.left = "10px";
 }
 
 
 function hoverOffImage () {
-    profilePic.src = "Resources/Images/Parth-green.png";
+    profilePic.src = "Resources/Images/me.jpeg";
     profileBorder.style.top = "-220px";
     profileBorder.style.left = "30px";
 }
