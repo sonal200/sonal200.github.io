@@ -1,18 +1,18 @@
 /* Universal Styles */
 :root {
-    --dark-navy: #dee4ee;
-    --navy: #0a192f;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
-    --navy-shadow: rgba(2,12,27,0.7);
-    --dark-navy-shadow: rgba(2,12,27,0.8);
-    --dark-slate: #495670;
+    --dark-navy: #FFFFFF;
+    --navy: #FFFFFF;
+    --light-navy: #F8F6FF;
+    --lightest-navy: #EDE9FF;
+    --navy-shadow: rgba(147,112,219,0.3);
+    --dark-navy-shadow: rgba(147,112,219,0.4)	;
+    --dark-slate: #9370DB;
     --slate: #8892b0;
-    --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
-    --white: #e6f1ff;
-    --green: #64ffda;
-    --green-tint: rgba(100,255,218,0.1);
+    --light-slate: #9683EC;
+    --lightest-slate: #B19CD9;
+    --white: #FFFFFF;
+    --green: #A020F0;
+    --green-tint: rgba(160,32,240,0.1);
     --pink: #f57dff;
     --blue: #57cbff;
     --font-sans: 'Inter', sans-serif;
